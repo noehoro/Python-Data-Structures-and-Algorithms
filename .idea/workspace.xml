@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3265e6cd-8f60-4312-a032-ea4432729946" name="Default Changelist" comment="" />
+    <list default="true" id="3265e6cd-8f60-4312-a032-ea4432729946" name="Default Changelist" comment="Circular Linked">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Circular Liked Lists/Josephus Problem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Circular Liked Lists/LinkedList.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +19,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZfjshMFnSUhrLICM06Fiyjaaix" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +33,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -42,6 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585237250440</updated>
       <workItem from="1585237251728" duration="23100000" />
+      <workItem from="1585273364683" duration="4198000" />
     </task>
     <servers />
   </component>
@@ -53,6 +66,14 @@
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
     <state x="326" y="113" key="#Notifications/0.0.1500.1000@0.0.1500.1000" timestamp="1585244663674" />
+    <state x="342" y="98" key="CommitChangelistDialog2" timestamp="1585277554165">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state x="342" y="98" key="CommitChangelistDialog2/0.0.1500.1000@0.0.1500.1000" timestamp="1585277554165" />
+    <state x="454" y="327" key="com.intellij.ide.util.TipDialog" timestamp="1585277631905">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state x="454" y="327" key="com.intellij.ide.util.TipDialog/0.0.1500.1000@0.0.1500.1000" timestamp="1585277631905" />
     <state x="413" y="229" key="search.everywhere.popup" timestamp="1585238624279">
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
