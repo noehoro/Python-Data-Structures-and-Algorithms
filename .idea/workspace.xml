@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3265e6cd-8f60-4312-a032-ea4432729946" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Arrays/arbitraryPrecisionIncrement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/arrayAdvanceGame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/buyAndSellStocksExercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/intersectionOfTwoSortedArrays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/optimalTaskAssignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/twoSumProblem.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,9 +35,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -39,6 +47,12 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\noeho\OneDrive\Documents\PyCharm Repositories\Python-Data-Structures-and-Algorithms-Course\Arrays" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -56,6 +70,9 @@
       <workItem from="1585491924838" duration="1703000" />
       <workItem from="1585599159063" duration="1333000" />
       <workItem from="1585605179434" duration="948000" />
+      <workItem from="1585823910723" duration="122000" />
+      <workItem from="1585824181513" duration="45000" />
+      <workItem from="1585857077637" duration="9140000" />
     </task>
     <task id="LOCAL-00001" summary="Circular Linked Lists">
       <created>1585277656317</created>
@@ -78,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585308760078</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Test">
+      <created>1585823981879</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1585823981879</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,32 +122,46 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Circular Linked Lists" />
     <MESSAGE value="Circular Linked Lists Done" />
     <MESSAGE value="Doubly Linked List" />
-    <option name="LAST_COMMIT_MESSAGE" value="Doubly Linked List" />
+    <MESSAGE value="Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test" />
   </component>
   <component name="WindowStateProjectService">
     <state x="326" y="113" key="#Notifications" timestamp="1585244663674">
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
     <state x="326" y="113" key="#Notifications/0.0.1500.1000@0.0.1500.1000" timestamp="1585244663674" />
-    <state x="342" y="98" key="CommitChangelistDialog2" timestamp="1585308759104">
+    <state x="202" y="126" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585861490209">
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
-    <state x="342" y="98" key="CommitChangelistDialog2/0.0.1500.1000@0.0.1500.1000" timestamp="1585308759104" />
-    <state x="351" y="236" key="Vcs.Push.Dialog.v2" timestamp="1585308774493">
+    <state x="202" y="126" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1500.1000@0.0.1500.1000" timestamp="1585861490209" />
+    <state x="342" y="98" key="CommitChangelistDialog2" timestamp="1585823980722">
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
-    <state x="351" y="236" key="Vcs.Push.Dialog.v2/0.0.1500.1000@0.0.1500.1000" timestamp="1585308774493" />
-    <state x="454" y="327" key="com.intellij.ide.util.TipDialog" timestamp="1585823502166">
+    <state x="342" y="98" key="CommitChangelistDialog2/0.0.1500.1000@0.0.1500.1000" timestamp="1585823980722" />
+    <state x="246" y="165" key="SettingsEditor" timestamp="1585862818662">
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
-    <state x="454" y="327" key="com.intellij.ide.util.TipDialog/0.0.1500.1000@0.0.1500.1000" timestamp="1585823502166" />
+    <state x="246" y="165" key="SettingsEditor/0.0.1500.1000@0.0.1500.1000" timestamp="1585862818662" />
+    <state x="351" y="236" key="Vcs.Push.Dialog.v2" timestamp="1585824005401">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state x="351" y="236" key="Vcs.Push.Dialog.v2/0.0.1500.1000@0.0.1500.1000" timestamp="1585824005401" />
+    <state x="454" y="327" key="com.intellij.ide.util.TipDialog" timestamp="1585857078432">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state x="454" y="327" key="com.intellij.ide.util.TipDialog/0.0.1500.1000@0.0.1500.1000" timestamp="1585857078432" />
     <state x="553" y="388" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585823533672">
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
     <state x="553" y="388" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1500.1000@0.0.1500.1000" timestamp="1585823533672" />
+    <state x="438" y="68" width="613" height="804" key="find.popup" timestamp="1585861850955">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state x="438" y="68" width="613" height="804" key="find.popup/0.0.1500.1000@0.0.1500.1000" timestamp="1585861850955" />
     <state x="413" y="229" key="search.everywhere.popup" timestamp="1585238624279">
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
