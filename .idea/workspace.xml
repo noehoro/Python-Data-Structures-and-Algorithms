@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3265e6cd-8f60-4312-a032-ea4432729946" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Doubly Linked List/LinkedList.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +52,10 @@
       <updated>1585237250440</updated>
       <workItem from="1585237251728" duration="23100000" />
       <workItem from="1585273364683" duration="4198000" />
-      <workItem from="1585277630595" duration="6974000" />
+      <workItem from="1585277630595" duration="11221000" />
+      <workItem from="1585491924838" duration="1703000" />
+      <workItem from="1585599159063" duration="1333000" />
+      <workItem from="1585605179434" duration="948000" />
     </task>
     <task id="LOCAL-00001" summary="Circular Linked Lists">
       <created>1585277656317</created>
@@ -69,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585277865344</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Doubly Linked List">
+      <created>1585308760077</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585308760078</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,7 +89,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -89,25 +100,30 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Circular Linked Lists" />
     <MESSAGE value="Circular Linked Lists Done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Circular Linked Lists Done" />
+    <MESSAGE value="Doubly Linked List" />
+    <option name="LAST_COMMIT_MESSAGE" value="Doubly Linked List" />
   </component>
   <component name="WindowStateProjectService">
     <state x="326" y="113" key="#Notifications" timestamp="1585244663674">
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
     <state x="326" y="113" key="#Notifications/0.0.1500.1000@0.0.1500.1000" timestamp="1585244663674" />
-    <state x="342" y="98" key="CommitChangelistDialog2" timestamp="1585277864542">
+    <state x="342" y="98" key="CommitChangelistDialog2" timestamp="1585308759104">
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
-    <state x="342" y="98" key="CommitChangelistDialog2/0.0.1500.1000@0.0.1500.1000" timestamp="1585277864542" />
-    <state x="351" y="236" key="Vcs.Push.Dialog.v2" timestamp="1585277875980">
+    <state x="342" y="98" key="CommitChangelistDialog2/0.0.1500.1000@0.0.1500.1000" timestamp="1585308759104" />
+    <state x="351" y="236" key="Vcs.Push.Dialog.v2" timestamp="1585308774493">
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
-    <state x="351" y="236" key="Vcs.Push.Dialog.v2/0.0.1500.1000@0.0.1500.1000" timestamp="1585277875980" />
-    <state x="454" y="327" key="com.intellij.ide.util.TipDialog" timestamp="1585277631905">
+    <state x="351" y="236" key="Vcs.Push.Dialog.v2/0.0.1500.1000@0.0.1500.1000" timestamp="1585308774493" />
+    <state x="454" y="327" key="com.intellij.ide.util.TipDialog" timestamp="1585823502166">
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
-    <state x="454" y="327" key="com.intellij.ide.util.TipDialog/0.0.1500.1000@0.0.1500.1000" timestamp="1585277631905" />
+    <state x="454" y="327" key="com.intellij.ide.util.TipDialog/0.0.1500.1000@0.0.1500.1000" timestamp="1585823502166" />
+    <state x="553" y="388" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585823533672">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state x="553" y="388" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1500.1000@0.0.1500.1000" timestamp="1585823533672" />
     <state x="413" y="229" key="search.everywhere.popup" timestamp="1585238624279">
       <screen x="0" y="0" width="1500" height="1000" />
     </state>

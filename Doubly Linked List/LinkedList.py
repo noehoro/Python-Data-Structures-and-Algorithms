@@ -189,3 +189,5 @@ class DoublyLinkedList:
                 q = q.next
             p = p.next
         return pairs
+
+# test
