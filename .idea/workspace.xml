@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3265e6cd-8f60-4312-a032-ea4432729946" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Binary Trees/binarySearchTrees.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary Trees/binaryTree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary Trees/levelOrderTraversal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary Trees/reverseLevelOrderTraversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Search/binarySearchIterative.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Search/binarySearchRecursive.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Search/bisectMethod.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Search/cyclicallyShiftedArray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Search/findBitonicPeak.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Search/findClosestNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Search/findFixedNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Search/findIndexOfTarget.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Search/linearSearch.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +75,7 @@
       <workItem from="1585605179434" duration="948000" />
       <workItem from="1585823910723" duration="122000" />
       <workItem from="1585824181513" duration="45000" />
-      <workItem from="1585857077637" duration="18661000" />
+      <workItem from="1585857077637" duration="25290000" />
     </task>
     <task id="LOCAL-00001" summary="Circular Linked Lists">
       <created>1585277656317</created>
@@ -107,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585868720553</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Binary Search Trees">
+      <created>1585881556247</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1585881556247</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,7 +145,8 @@
     <MESSAGE value="Doubly Linked List" />
     <MESSAGE value="Test" />
     <MESSAGE value="Arrays" />
-    <option name="LAST_COMMIT_MESSAGE" value="Arrays" />
+    <MESSAGE value="Binary Search Trees" />
+    <option name="LAST_COMMIT_MESSAGE" value="Binary Search Trees" />
   </component>
   <component name="WindowStateProjectService">
     <state x="326" y="113" key="#Notifications" timestamp="1585244663674">
@@ -144,18 +157,18 @@
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
     <state x="202" y="126" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1500.1000@0.0.1500.1000" timestamp="1585861490209" />
-    <state x="342" y="98" key="CommitChangelistDialog2" timestamp="1585868719502">
+    <state x="342" y="98" key="CommitChangelistDialog2" timestamp="1585881555536">
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
-    <state x="342" y="98" key="CommitChangelistDialog2/0.0.1500.1000@0.0.1500.1000" timestamp="1585868719502" />
+    <state x="342" y="98" key="CommitChangelistDialog2/0.0.1500.1000@0.0.1500.1000" timestamp="1585881555536" />
     <state x="246" y="165" key="SettingsEditor" timestamp="1585862818662">
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
     <state x="246" y="165" key="SettingsEditor/0.0.1500.1000@0.0.1500.1000" timestamp="1585862818662" />
-    <state x="351" y="236" key="Vcs.Push.Dialog.v2" timestamp="1585868727261">
+    <state x="351" y="236" key="Vcs.Push.Dialog.v2" timestamp="1585881566708">
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
-    <state x="351" y="236" key="Vcs.Push.Dialog.v2/0.0.1500.1000@0.0.1500.1000" timestamp="1585868727261" />
+    <state x="351" y="236" key="Vcs.Push.Dialog.v2/0.0.1500.1000@0.0.1500.1000" timestamp="1585881566708" />
     <state x="454" y="327" key="com.intellij.ide.util.TipDialog" timestamp="1585857078432">
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
