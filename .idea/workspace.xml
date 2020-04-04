@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3265e6cd-8f60-4312-a032-ea4432729946" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Python-Data-Structures-and-Algorithms-Course/Doubly Linked List/.idea/Doubly Linked List.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Python-Data-Structures-and-Algorithms-Course/Doubly Linked List/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Python-Data-Structures-and-Algorithms-Course/Doubly Linked List/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Python-Data-Structures-and-Algorithms-Course/Doubly Linked List/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Python-Data-Structures-and-Algorithms-Course/Doubly Linked List/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Python-Data-Structures-and-Algorithms-Course/Recursion/countConsonants.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Python-Data-Structures-and-Algorithms-Course/Recursion/recursiveMultiply.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Python-Data-Structures-and-Algorithms-Course/Recursion/stringLength.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Python-Data-Structures-and-Algorithms-Course/Recursion/upperInString.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Python-Data-Structures-and-Algorithms-Course/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python-Data-Structures-and-Algorithms-Course/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Python-Data-Structures-and-Algorithms-Course/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python-Data-Structures-and-Algorithms-Course/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="3265e6cd-8f60-4312-a032-ea4432729946" name="Default Changelist" comment="Recursion Algorithms">
+      <change afterPath="$PROJECT_DIR$/String Processing/intToString" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String Processing/isAnagram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String Processing/isPalindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String Processing/isPalindromeAnagram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String Processing/isPermutation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String Processing/isUnique.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String Processing/lookAndSay.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String Processing/spreadsheetEncoding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String Processing/stringToInt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,10 +27,10 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../Python-Data-Structures-and-Algorithms-Course" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZfjshMFnSUhrLICM06Fiyjaaix" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -51,7 +51,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -79,7 +79,8 @@
       <workItem from="1585857077637" duration="25375000" />
       <workItem from="1586031340233" duration="471000" />
       <workItem from="1586031830102" duration="34000" />
-      <workItem from="1586033161071" duration="2137000" />
+      <workItem from="1586033161071" duration="4131000" />
+      <workItem from="1586037519111" duration="1737000" />
     </task>
     <task id="LOCAL-00001" summary="Circular Linked Lists">
       <created>1585277656317</created>
@@ -130,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585930336526</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Recursion Algorithms">
+      <created>1586035323303</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1586035323303</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,7 +166,8 @@
     <MESSAGE value="Arrays" />
     <MESSAGE value="Binary Search Trees" />
     <MESSAGE value="Binary Search Algorithm" />
-    <option name="LAST_COMMIT_MESSAGE" value="Binary Search Algorithm" />
+    <MESSAGE value="Recursion Algorithms" />
+    <option name="LAST_COMMIT_MESSAGE" value="Recursion Algorithms" />
   </component>
   <component name="WindowStateProjectService">
     <state x="326" y="113" key="#Notifications" timestamp="1585244663674">
@@ -169,22 +178,26 @@
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
     <state x="202" y="126" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1500.1000@0.0.1500.1000" timestamp="1585861490209" />
-    <state x="342" y="98" key="CommitChangelistDialog2" timestamp="1585930334981">
+    <state x="537" y="249" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586038432761">
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
-    <state x="342" y="98" key="CommitChangelistDialog2/0.0.1500.1000@0.0.1500.1000" timestamp="1585930334981" />
-    <state x="246" y="165" key="SettingsEditor" timestamp="1585862818662">
+    <state x="537" y="249" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1500.1000@0.0.1500.1000" timestamp="1586038432761" />
+    <state x="342" y="98" key="CommitChangelistDialog2" timestamp="1586037635755">
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
-    <state x="246" y="165" key="SettingsEditor/0.0.1500.1000@0.0.1500.1000" timestamp="1585862818662" />
+    <state x="342" y="98" key="CommitChangelistDialog2/0.0.1500.1000@0.0.1500.1000" timestamp="1586037635755" />
+    <state x="246" y="165" key="SettingsEditor" timestamp="1586037548825">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state x="246" y="165" key="SettingsEditor/0.0.1500.1000@0.0.1500.1000" timestamp="1586037548825" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1586033404060">
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1500.1000@0.0.1500.1000" timestamp="1586033404060" />
-    <state x="351" y="236" key="Vcs.Push.Dialog.v2" timestamp="1585930339580">
+    <state x="351" y="236" key="Vcs.Push.Dialog.v2" timestamp="1586035337533">
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
-    <state x="351" y="236" key="Vcs.Push.Dialog.v2/0.0.1500.1000@0.0.1500.1000" timestamp="1585930339580" />
+    <state x="351" y="236" key="Vcs.Push.Dialog.v2/0.0.1500.1000@0.0.1500.1000" timestamp="1586035337533" />
     <state x="520" y="292" key="com.intellij.ide.util.TipDialog" timestamp="1586033491943">
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
