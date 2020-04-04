@@ -10,4 +10,5 @@ def inverse(string):
     return inv
 
 
+str = "hello"
 print(inverse(str))
